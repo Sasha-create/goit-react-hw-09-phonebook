@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/RegisterView/RegisterView.module.css"],"names":[],"mappings":"AAAA,0BACE,WACF,CAEA,2BACE,oBAAa,CAAb,YAAa,CACb,6BAAsB,CAAtB,qBAAsB,CACtB,kBACF","file":"RegisterView.d8954d68.chunk.css","sourcesContent":[".form {\n  width: 320px;\n}\n\n.label {\n  display: flex;\n  flex-direction: column;\n  margin-bottom: 15px;\n}\n"]}
